@@ -29,10 +29,14 @@ Es ideal para desarrollo, pruebas y aprendizaje, asegurando que todos los desarr
 
 El objetivo principal es simplificar el entorno de desarrollo Java, eliminando problemas de compatibilidad y reduciendo el tiempo de configuración inicial.
 
+---
+
 🤝 Contribuciones
 
 Las contribuciones son bienvenidas.
 Puedes abrir un issue o enviar un pull request con mejoras o correcciones.
+
+---
 
 📄 Licencia
 
